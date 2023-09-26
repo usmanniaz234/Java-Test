@@ -1,0 +1,7 @@
+com\example\Entity\Role.class
+com\example\Repository\RoleRepository.class
+com\example\Controller\UserController.class
+com\example\Entity\User.class
+com\example\JavaTestApplication.class
+com\example\Repository\UserRepository.class
+com\example\Configuration\SecurityConfig.class
